@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Iran"
 title                    : "Fateme Shafizadeh / Fatemeh"
 title_separator          : "-"
 name                     : &name "Fatemeh"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Fatemeh"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Shahid Behehsti University"
   uri              : # URL
   email            : "none@example.org" 
 
